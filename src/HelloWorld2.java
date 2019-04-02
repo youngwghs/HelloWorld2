@@ -5,6 +5,8 @@ public class HelloWorld2 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		//comment here
+
+		//adding second comment
 	}
 
 }
